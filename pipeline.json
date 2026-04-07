@@ -12,10 +12,11 @@
     "ratio": "9:16",
     "episode": "ep01"
   },
-  "status": "not_started",
+  "status": "step1b_in_progress",
   "steps": {
     "step1b": {
-      "status": "not_started"
+      "status": "failed",
+      "started_at": "2026-04-07T21:08:58.844401+00:00"
     },
     "step1.5": {
       "status": "not_started"
